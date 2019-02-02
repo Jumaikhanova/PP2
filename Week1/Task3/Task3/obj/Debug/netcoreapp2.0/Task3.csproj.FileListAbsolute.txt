@@ -1,0 +1,11 @@
+/Users/user/Documents/PP2/Week1/Task3/Task3/obj/Debug/netcoreapp2.0/Task3.csprojAssemblyReference.cache
+/Users/user/Documents/PP2/Week1/Task3/Task3/obj/Debug/netcoreapp2.0/Task3.csproj.CoreCompileInputs.cache
+/Users/user/Documents/PP2/Week1/Task3/Task3/obj/Debug/netcoreapp2.0/Task3.AssemblyInfoInputs.cache
+/Users/user/Documents/PP2/Week1/Task3/Task3/obj/Debug/netcoreapp2.0/Task3.AssemblyInfo.cs
+/Users/user/Documents/PP2/Week1/Task3/Task3/bin/Debug/netcoreapp2.0/Task3.deps.json
+/Users/user/Documents/PP2/Week1/Task3/Task3/bin/Debug/netcoreapp2.0/Task3.runtimeconfig.json
+/Users/user/Documents/PP2/Week1/Task3/Task3/bin/Debug/netcoreapp2.0/Task3.runtimeconfig.dev.json
+/Users/user/Documents/PP2/Week1/Task3/Task3/bin/Debug/netcoreapp2.0/Task3.dll
+/Users/user/Documents/PP2/Week1/Task3/Task3/bin/Debug/netcoreapp2.0/Task3.pdb
+/Users/user/Documents/PP2/Week1/Task3/Task3/obj/Debug/netcoreapp2.0/Task3.dll
+/Users/user/Documents/PP2/Week1/Task3/Task3/obj/Debug/netcoreapp2.0/Task3.pdb

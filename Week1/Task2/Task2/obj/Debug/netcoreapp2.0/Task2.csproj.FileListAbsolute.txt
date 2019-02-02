@@ -1,0 +1,11 @@
+/Users/user/Documents/PP2/Week1/Task2/Task2/bin/Debug/netcoreapp2.0/Task2.deps.json
+/Users/user/Documents/PP2/Week1/Task2/Task2/bin/Debug/netcoreapp2.0/Task2.runtimeconfig.json
+/Users/user/Documents/PP2/Week1/Task2/Task2/bin/Debug/netcoreapp2.0/Task2.runtimeconfig.dev.json
+/Users/user/Documents/PP2/Week1/Task2/Task2/bin/Debug/netcoreapp2.0/Task2.dll
+/Users/user/Documents/PP2/Week1/Task2/Task2/bin/Debug/netcoreapp2.0/Task2.pdb
+/Users/user/Documents/PP2/Week1/Task2/Task2/obj/Debug/netcoreapp2.0/Task2.csprojAssemblyReference.cache
+/Users/user/Documents/PP2/Week1/Task2/Task2/obj/Debug/netcoreapp2.0/Task2.csproj.CoreCompileInputs.cache
+/Users/user/Documents/PP2/Week1/Task2/Task2/obj/Debug/netcoreapp2.0/Task2.AssemblyInfoInputs.cache
+/Users/user/Documents/PP2/Week1/Task2/Task2/obj/Debug/netcoreapp2.0/Task2.AssemblyInfo.cs
+/Users/user/Documents/PP2/Week1/Task2/Task2/obj/Debug/netcoreapp2.0/Task2.dll
+/Users/user/Documents/PP2/Week1/Task2/Task2/obj/Debug/netcoreapp2.0/Task2.pdb
