@@ -19,7 +19,8 @@ namespace Task2
                 if (isPrime(a[i]) == true)
                     sw.Write(a[i] + " ");
             }
-            sw.Close();//Close the StreamReader object 
+            sr.Close();//Close the StreamReader object 
+            sw.Close();//Close the StreamWriter object 
             Console.Write("operation is completed"); 
         }
         static bool isPrime(int k)
