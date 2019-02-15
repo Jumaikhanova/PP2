@@ -18,7 +18,7 @@ namespace Task2
             Console.WriteLine("Name:"+ name); //output
             Console.WriteLine("id:" + id);
         }
-        public void Increment() //creating a function
+        public void Increment(int year_of_study) //creating a function
         {
             year_of_study++; //increment the year of study
             Console.WriteLine("Increased year of study:" + year_of_study);//output
@@ -29,9 +29,10 @@ namespace Task2
     {
         static void Main(string[] args)
         {
+            int year = int.Parse(Console.Readline());
             Student st1 = new Student("sss", "1234567");//creating the instance of the class Student
             st1.print(); //accessing name and id
-            st1.Increment(); //accessing the increased year of study
+            st1.Increment(year); //accessing the increased year of study
         }
     }
 }

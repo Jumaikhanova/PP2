@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{8F2F9FE7-B43C-41D1-B9E0-278341129D97}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Task1/Program.cs">
     <Files>
-      <File FileName="Task1/Program.cs" Line="26" Column="32" />
+      <File FileName="Task1/Program.cs" Line="20" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />

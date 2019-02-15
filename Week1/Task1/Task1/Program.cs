@@ -6,15 +6,21 @@ namespace Task1
     {
         static void Main(string[] args)
         {
+            int l = 0;
             int n = int.Parse(Console.ReadLine()); //conversion to integer
             int[] a = new int[n]; //creating  the array
             string[] arr = Console.ReadLine().Split(); //splitting the input string
             for (int i = 0; i < a.Length; i++) 
             {
                 a[i] = int.Parse(arr[i]); //conversion to integer
-                if (isPrime(a[i]) == true) //condition
+                if (isPrime(a[i]) == true)
+                { //condition
+                    l++;
                     Console.Write(a[i] + " "); //output
+                }
             }
+            Console.WriteLine();
+            Console.WriteLine(l);
         }
         static bool isPrime(int k) //a method that checks the number
         {
