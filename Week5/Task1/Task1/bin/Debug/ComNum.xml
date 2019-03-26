@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ComNum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <numbers>
+    <ComplexNumber>
+      <a>7</a>
+      <b>2</b>
+    </ComplexNumber>
+    <ComplexNumber>
+      <a>4</a>
+      <b>3</b>
+    </ComplexNumber>
+  </numbers>
+</ComNum>

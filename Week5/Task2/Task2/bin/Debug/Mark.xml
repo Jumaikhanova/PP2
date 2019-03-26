@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfMark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mark>
+    <Name>Sasha</Name>
+    <ID>18BD000000</ID>
+    <Subject>Physics1</Subject>
+    <Points>80</Points>
+    <Letter>B</Letter>
+  </Mark>
+  <Mark>
+    <Name>Sabina</Name>
+    <ID>18BD111111</ID>
+    <Subject>PP1</Subject>
+    <Points>91</Points>
+    <Letter>A-</Letter>
+  </Mark>
+  <Mark>
+    <Name>Sara</Name>
+    <ID>18BD116303</ID>
+    <Subject>Calculus2</Subject>
+    <Points>95</Points>
+    <Letter>A</Letter>
+  </Mark>
+</ArrayOfMark>
