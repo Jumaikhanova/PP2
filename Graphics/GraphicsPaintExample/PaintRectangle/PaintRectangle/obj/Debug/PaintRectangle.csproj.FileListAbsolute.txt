@@ -1,0 +1,10 @@
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\bin\Debug\PaintRectangle.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\bin\Debug\PaintRectangle.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\bin\Debug\PaintRectangle.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\obj\Debug\PaintRectangle.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\obj\Debug\PaintRectangle.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\obj\Debug\PaintRectangle.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\obj\Debug\PaintRectangle.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\obj\Debug\PaintRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\obj\Debug\PaintRectangle.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\PaintVol2\PaintRectangle\PaintRectangle\obj\Debug\PaintRectangle.pdb

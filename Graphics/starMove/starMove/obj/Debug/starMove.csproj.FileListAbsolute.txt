@@ -1,0 +1,10 @@
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\bin\Debug\starMove.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\bin\Debug\starMove.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\bin\Debug\starMove.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\obj\Debug\starMove.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\obj\Debug\starMove.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\obj\Debug\starMove.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\obj\Debug\starMove.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\obj\Debug\starMove.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\obj\Debug\starMove.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsStarMove\starMove\starMove\obj\Debug\starMove.pdb

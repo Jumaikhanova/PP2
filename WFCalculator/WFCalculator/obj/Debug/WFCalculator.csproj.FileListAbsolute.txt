@@ -1,0 +1,30 @@
+C:\PP2\Week8\WFCalculator\WFCalculator\bin\Debug\WFCalculator.exe.config
+C:\PP2\Week8\WFCalculator\WFCalculator\bin\Debug\WFCalculator.exe
+C:\PP2\Week8\WFCalculator\WFCalculator\bin\Debug\WFCalculator.pdb
+C:\PP2\Week8\WFCalculator\WFCalculator\obj\Debug\WFCalculator.csprojAssemblyReference.cache
+C:\PP2\Week8\WFCalculator\WFCalculator\obj\Debug\WFCalculator.Form1.resources
+C:\PP2\Week8\WFCalculator\WFCalculator\obj\Debug\WFCalculator.Properties.Resources.resources
+C:\PP2\Week8\WFCalculator\WFCalculator\obj\Debug\WFCalculator.csproj.GenerateResource.cache
+C:\PP2\Week8\WFCalculator\WFCalculator\obj\Debug\WFCalculator.csproj.CoreCompileInputs.cache
+C:\PP2\Week8\WFCalculator\WFCalculator\obj\Debug\WFCalculator.exe
+C:\PP2\Week8\WFCalculator\WFCalculator\obj\Debug\WFCalculator.pdb
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\bin\Debug\WFCalculator.exe.config
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\bin\Debug\WFCalculator.exe
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\bin\Debug\WFCalculator.pdb
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\obj\Debug\WFCalculator.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\obj\Debug\WFCalculator.Form1.resources
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\obj\Debug\WFCalculator.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\obj\Debug\WFCalculator.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\obj\Debug\WFCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\obj\Debug\WFCalculator.exe
+C:\Users\Lenovo 530S\Desktop\WFCalculator_1\WFCalculator\obj\Debug\WFCalculator.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\bin\Debug\WFCalculator.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\bin\Debug\WFCalculator.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\bin\Debug\WFCalculator.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\obj\Debug\WFCalculator.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\obj\Debug\WFCalculator.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\obj\Debug\WFCalculator.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\obj\Debug\WFCalculator.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\obj\Debug\WFCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\obj\Debug\WFCalculator.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\WFCalculator\WFCalculator\obj\Debug\WFCalculator.pdb

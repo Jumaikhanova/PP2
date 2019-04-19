@@ -1,0 +1,10 @@
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\bin\Debug\BasicPaint.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\bin\Debug\BasicPaint.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\bin\Debug\BasicPaint.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\obj\Debug\BasicPaint.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\obj\Debug\BasicPaint.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\obj\Debug\BasicPaint.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\obj\Debug\BasicPaint.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\obj\Debug\BasicPaint.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\obj\Debug\BasicPaint.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsPaintExample\BasicPaint\BasicPaint\obj\Debug\BasicPaint.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\bin\Debug\GraphicsExample.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\bin\Debug\GraphicsExample.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\bin\Debug\GraphicsExample.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\obj\Debug\GraphicsExample.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\obj\Debug\GraphicsExample.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\obj\Debug\GraphicsExample.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\obj\Debug\GraphicsExample.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\obj\Debug\GraphicsExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\obj\Debug\GraphicsExample.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\GraphicsExample\GraphicsExample\obj\Debug\GraphicsExample.pdb

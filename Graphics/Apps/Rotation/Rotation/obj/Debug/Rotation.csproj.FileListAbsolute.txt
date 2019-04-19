@@ -1,0 +1,10 @@
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\bin\Debug\Rotation.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\bin\Debug\Rotation.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\bin\Debug\Rotation.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\obj\Debug\Rotation.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\obj\Debug\Rotation.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\obj\Debug\Rotation.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\obj\Debug\Rotation.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\obj\Debug\Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\obj\Debug\Rotation.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rotation\Rotation\obj\Debug\Rotation.pdb

@@ -1,0 +1,10 @@
+C:\PP2\Week9\PictureSpace\PictureSpace\bin\Debug\PictureSpace.exe.config
+C:\PP2\Week9\PictureSpace\PictureSpace\bin\Debug\PictureSpace.exe
+C:\PP2\Week9\PictureSpace\PictureSpace\bin\Debug\PictureSpace.pdb
+C:\PP2\Week9\PictureSpace\PictureSpace\obj\Debug\PictureSpace.csprojAssemblyReference.cache
+C:\PP2\Week9\PictureSpace\PictureSpace\obj\Debug\PictureSpace.Form1.resources
+C:\PP2\Week9\PictureSpace\PictureSpace\obj\Debug\PictureSpace.Properties.Resources.resources
+C:\PP2\Week9\PictureSpace\PictureSpace\obj\Debug\PictureSpace.csproj.GenerateResource.cache
+C:\PP2\Week9\PictureSpace\PictureSpace\obj\Debug\PictureSpace.csproj.CoreCompileInputs.cache
+C:\PP2\Week9\PictureSpace\PictureSpace\obj\Debug\PictureSpace.exe
+C:\PP2\Week9\PictureSpace\PictureSpace\obj\Debug\PictureSpace.pdb

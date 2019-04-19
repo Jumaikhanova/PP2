@@ -1,0 +1,10 @@
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\obj\Debug\Rebound.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\obj\Debug\Rebound.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\obj\Debug\Rebound.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\obj\Debug\Rebound.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\obj\Debug\Rebound.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\bin\Debug\Rebound.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\bin\Debug\Rebound.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\bin\Debug\Rebound.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\obj\Debug\Rebound.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Rebound\Rebound\obj\Debug\Rebound.pdb

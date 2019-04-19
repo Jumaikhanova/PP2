@@ -1,0 +1,10 @@
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\bin\Debug\Board.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\bin\Debug\Board.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\bin\Debug\Board.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\obj\Debug\Board.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\obj\Debug\Board.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\obj\Debug\Board.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\obj\Debug\Board.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\obj\Debug\Board.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\obj\Debug\Board.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\Board\Board\obj\Debug\Board.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\bin\Debug\WindowsWall.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\bin\Debug\WindowsWall.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\bin\Debug\WindowsWall.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\obj\Debug\WindowsWall.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\obj\Debug\WindowsWall.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\obj\Debug\WindowsWall.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\obj\Debug\WindowsWall.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\obj\Debug\WindowsWall.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\obj\Debug\WindowsWall.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\Apps\WindowsWall\WindowsWall\obj\Debug\WindowsWall.pdb

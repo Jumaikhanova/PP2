@@ -1,0 +1,10 @@
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\bin\Debug\RectangleMove.exe.config
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\bin\Debug\RectangleMove.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\bin\Debug\RectangleMove.pdb
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\obj\Debug\RectangleMove.csprojAssemblyReference.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\obj\Debug\RectangleMove.Form1.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\obj\Debug\RectangleMove.Properties.Resources.resources
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\obj\Debug\RectangleMove.csproj.GenerateResource.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\obj\Debug\RectangleMove.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\obj\Debug\RectangleMove.exe
+C:\Users\Lenovo 530S\Desktop\Graphics\RectangleMove\RectangleMove\obj\Debug\RectangleMove.pdb
